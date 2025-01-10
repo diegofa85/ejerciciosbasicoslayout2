@@ -9,7 +9,7 @@ function App() {
     <Container>
       <Row>
         <Col md={4} xl={4}>
-          <div>Mujer</div>
+        <div style={{width:2000, marginTop: '100px'}}>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
         </Col>
         <Col md={4} xl={4}>
           <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px'}}/>
@@ -25,13 +25,13 @@ function App() {
       </Row>
       <Row>
         <Col md={4} xl={4}>
-          <div>Mujer</div>
+        <div style={{width:2000, marginTop: '100px'}}>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
         </Col>
         <Col md={4} xl={4}>
-          <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px', marginTop: '50px'}}/>
+          <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px', marginTop: '25px'}}/>
         </Col>
         <Col md={4} xl={4}>
-          <div style={{ marginTop: '25px' }}>
+          <div style={{ marginTop: '50px' }}>
             <p>David</p>
             <p>Pérez</p>
             <p>García</p>
@@ -41,13 +41,13 @@ function App() {
       </Row>
       <Row>
         <Col md={4} xl={4}>
-          <div>Mujer</div>
+        <div style={{width:2000, marginTop: '100px'}}>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
         </Col>
         <Col md={4} xl={4}>
-          <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px'}}/>
+          <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px', marginTop: '25px'}}/>
         </Col>
         <Col md={4} xl={4}>
-          <div style={{ marginTop: '25px' }}>
+          <div style={{ marginTop: '50px' }}>
             <p>David</p>
             <p>Pérez</p>
             <p>García</p>
@@ -57,13 +57,13 @@ function App() {
       </Row>
       <Row>
         <Col md={4} xl={4}>
-          <div style={{width:2000, marginTop: '150px'}}>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
+          <div style={{width:2000, marginTop: '100px'}}>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
         </Col>
         <Col md={4} xl={4}>
-          <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px'}}/>
+          <Image src={"./foto1.jpg"} style={{height:175, width:200, marginLeft: '200px', marginTop: '25px'}}/>
         </Col>
         <Col md={4} xl={4}>
-          <div style={{ marginTop: '25px' }}>
+          <div style={{ marginTop: '50px' }}>
             <p>David</p>
             <p>Pérez</p>
             <p>García</p>
